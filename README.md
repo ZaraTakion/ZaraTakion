@@ -86,7 +86,7 @@ Sou estudante de **Sistemas para Internet** (UNIESP, conclusão em 2025) e estou
 - **LinkedIn:** [Rodrigo Pinheiro](https://www.linkedin.com/in/rodrigo-pinheiro-94aa74358/)  
 - **GitHub:** [ZaraTakion](https://github.com/ZaraTakion)  
 - **Localização:** Cabedelo, Paraíba – Brasil  
-- **Currículo completo:** [Clique para visualizar em PDF](https://github.com/ZaraTakion/ZaraTakion/blob/main/curriculum.pdf)
+- **Currículo completo:** [Clique para visualizar em PDF](https://github.com/ZaraTakion/Zara/blob/main/curriculum.pdf)
 
 ---
 
