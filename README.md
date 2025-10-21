@@ -1,4 +1,4 @@
-<h1 align="center">Zara Takion | Multilingual GitHub Profile</h1>
+<h1 align="center">🌍 Zara Takion | Multilingual GitHub Profile</h1>
 
 <p align="center"><em>Escolha seu idioma | Choose your language</em></p>
 
@@ -20,20 +20,25 @@
 
 ### 🧬 Sobre mim
 
-Estudante de **Sistemas para Internet (UNIESP)**, com foco em **Ciência de Dados e Python**.  
-Exploro o ponto onde **análise, criatividade e código** se encontram — criando soluções que transformam dados em histórias e decisões.
+Estudante de **Sistemas para Internet (UNIESP)** com foco em **Ciência de Dados e Python**.  
+Atua em projetos que unem **análise, visualização e automação de dados**.  
+Explora soluções práticas, combinando técnica e criatividade para transformar dados em resultados.
+
+---
 
 ### 🎓 Mini Currículo
 
 - Formação em **Ciência de Dados e Python** *(em andamento)*  
-- Projetos com **dados reais, dashboards interativos e machine learning**  
-- Interesse em **visualização, EDA e automação de processos**  
-- Perfil **autodidata, analítico e colaborativo**
+- Experiência em **dados reais, dashboards interativos e machine learning**  
+- Foco em **EDA, visualização e automação de processos**  
+- Perfil **analítico, autodidata e colaborativo**
+
+---
 
 ### 🛠️ Habilidades Técnicas
 
 | Linguagens | Bibliotecas | Ferramentas | Extras |
-|------------|--------------|--------------|--------|
+|-------------|--------------|--------------|---------|
 | Python, SQL, HTML, CSS | Pandas, NumPy, Seaborn, Scikit-learn | Git, GitHub, Jupyter, Colab, VS Code | Scrum (iniciante), Storytelling com dados |
 
 ---
@@ -57,7 +62,7 @@ Exploro o ponto onde **análise, criatividade e código** se encontram — crian
 
 - 📧 Email: rodzmaciel21@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-pinheiro-94aa74358/)  
-- 📄 [Currículo (PDF)](https://github.com/ZaraTakion/Zara/blob/main/curriculum.pdf)
+- 📄 [Currículo Completo](https://github.com/ZaraTakion/Zara/blob/main/README.md)
 
 👉 Role para baixo ou <a href="#en">clique aqui</a> para a versão em inglês.
 
@@ -65,7 +70,7 @@ Exploro o ponto onde **análise, criatividade e código** se encontram — crian
 
 ## 🇺🇸 English <a name="en"></a>
 
-<h2 align="center">👋 Hi there! I'm Rodrigo A. Maciel Pinheiro</h2>
+<h2 align="center">👋 Hi! I'm Rodrigo A. Maciel Pinheiro</h2>
 <h4 align="center"><em>Data Science • Python • Visualization • Creativity + Code</em></h4>
 
 <p align="center">
@@ -74,22 +79,25 @@ Exploro o ponto onde **análise, criatividade e código** se encontram — crian
 
 ### 🧬 About Me
 
-I'm a **Internet Systems** student at UNIESP, specializing in **Data Science and Python**.  
-I connect **analysis, creativity, and code** to turn raw data into clear stories and actionable insights.
+Student of **Internet Systems (UNIESP)** with a focus on **Data Science and Python**.  
+Works on projects combining **data analysis, visualization, and automation**.  
+Applies analytical thinking and creative problem-solving to transform data into insights.
+
+---
 
 ### 🎓 Mini Résumé
 
 - **Data Science and Python** training *(in progress)*  
-- Experience with **real datasets, interactive dashboards, and ML models**  
+- Experience with **real-world datasets, interactive dashboards, and ML models**  
 - Focused on **EDA, visualization, and automation**  
-- **Self-taught, analytical, and collaborative**
+- **Analytical, self-taught, and collaborative**
 
 ---
 
 ### 🛠️ Technical Skills
 
 | Languages | Libraries | Tools | Extras |
-|-----------|------------|--------|--------|
+|------------|------------|--------|---------|
 | Python, SQL, HTML, CSS | Pandas, NumPy, Seaborn, Scikit-learn | Git, GitHub, Jupyter, Colab, VS Code | Scrum (beginner), Data Storytelling |
 
 ---
@@ -113,6 +121,6 @@ I connect **analysis, creativity, and code** to turn raw data into clear stories
 
 - 📧 Email: rodzmaciel21@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-pinheiro-94aa74358/)  
-- 📄 [Full Résumé (PDF)](https://github.com/ZaraTakion/Zara/blob/main/curriculum.pdf)
+- 📄 [Full Résumé](https://github.com/ZaraTakion/Zara/blob/main/README.md)
 
 👉 Scroll up or <a href="#pt-br">click here</a> for the Portuguese version.
