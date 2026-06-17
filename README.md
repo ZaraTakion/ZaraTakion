@@ -12,7 +12,7 @@ Atualmente desenvolvendo meu portfólio com projetos em Django, React e Ciência
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZaraTakion-181717?style=for-the-badge\&logo=github)](https://github.com/ZaraTakion)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Pinheiro-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/rodrigo-pinheiro-94aa74358/)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](rodzmaciel21@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rodzmaciel21@gmail.com)
 
 </div>
 
