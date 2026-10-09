@@ -28,7 +28,7 @@ API REST de gerenciamento de tarefas com validações de entrada, operações CR
 
 **Evidências:** [código-fonte](https://github.com/ZaraTakion/task-manager-backend) · [estudo de caso na branch de revisão](https://github.com/ZaraTakion/task-manager-backend/blob/refactor/task-manager-hardening-20261009/docs/CASE_STUDY.md) · [CI da revisão: 32 testes em quatro versões Python, 99% das linhas de `app`](https://github.com/ZaraTakion/task-manager-backend/actions/runs/37974457869).
 
-**Estado:** melhorias em [revisão no PR #2](https://github.com/ZaraTakion/task-manager-backend/pull/2); não são apresentadas como integradas à `main`.
+**Estado:** [PR #2 — modernização e histórico de revisão](https://github.com/ZaraTakion/task-manager-backend/pull/2). Consulte o estado do PR antes de assumir que todas as mudanças estão integradas à `main`.
 
 ### 3. [UPA — Portal Acadêmico](https://github.com/ZaraTakion/upa-portal-academico) — API acadêmica e integração full-stack
 
