@@ -1,96 +1,45 @@
-<h1 align="center">Rodrigo Pinheiro</h1>
+# Rodrigo Araújo Maciel Pinheiro
 
-<p align="center">
-  <strong>Desenvolvedor Web Júnior | Back-End</strong>
-</p>
+**Desenvolvedor de Software Júnior | Back-End Python**  
+Tecnólogo em Sistemas para Internet — Centro Universitário UNIESP (concluído em 2026) · Brasil
 
-<p align="center">
-  Python • Django • APIs REST • SQL • Desenvolvimento Web
-</p>
-
-<p align="center">
-  Tecnólogo em Sistemas para Internet • Brasil
-</p>
-
----
-
-## Sobre mim
-
-Sou desenvolvedor web com foco em Back-End, formado em Sistemas para Internet pelo Centro Universitário UNIESP.
-
-Tenho conhecimentos em Python, Django, Flask, APIs REST e bancos de dados relacionais, além de experiência acadêmica no desenvolvimento e integração de sistemas web.
-
-Utilizo Git e GitHub para controle de versão e documentação de projetos. Busco uma oportunidade de estágio ou posição inicial em desenvolvimento de software para aplicar meus conhecimentos e desenvolver experiência profissional.
-
----
-
-## Tecnologias
-
-### Back-End
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-
-### Front-End
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
+Construo e documento aplicações com Python, APIs REST e persistência relacional. Meus projetos públicos demonstram autenticação, autorização, validação de dados, testes automatizados e integração de sistemas. Tenho experiência prática em projetos acadêmicos e pessoais, sem apresentar essas entregas como experiência comercial.
 
 ## Projetos em destaque
 
-### UPA — Upgrade Portal Aluno
+### [Chamados API](https://github.com/ZaraTakion/chamados-api)
+**Django REST Framework · JWT · SQLite/PostgreSQL · Celery/Redis · GitHub Actions**
 
-Projeto acadêmico desenvolvido durante a graduação em Sistemas para Internet para modernizar a experiência de uso de um portal acadêmico.
+API para abertura e acompanhamento de chamados de suporte, com visibilidade por solicitante, privilégios de equipe, trilha de auditoria e notificações por outbox transacional. O repositório contém testes, migrações, Docker Compose e [pré-release demonstrável local](https://github.com/ZaraTakion/chamados-api/releases/tag/v1.0.0-local.1). **Não é apresentado como serviço público em produção.**
 
-Atuação no desenvolvimento e organização da aplicação, integração entre Front-End e Back-End, consumo de APIs REST, autenticação de usuários, organização de rotas e manipulação de dados acadêmicos.
+[Arquitetura](https://github.com/ZaraTakion/chamados-api/blob/main/docs/ARCHITECTURE.md) · [Estudo técnico](https://github.com/ZaraTakion/chamados-api/blob/main/docs/PORTFOLIO.md)
 
-**Tecnologias:** React, Vite, JavaScript, HTML, CSS, Python, Django, Django REST Framework, JWT, SQLite, Git e GitHub.
+### [Task Manager API](https://github.com/ZaraTakion/task-manager-backend)
+**FastAPI · Pydantic · SQLite · unittest**
 
-[Ver projeto](https://github.com/ZaraTakion/upa-portal-academico) • [Aplicação](https://upa-portal-academico.vercel.app/)
+API CRUD para tarefas persistidas em SQLite. A [modernização em revisão (PR #2)](https://github.com/ZaraTakion/task-manager-backend/pull/2) inclui validações, paginação opcional, autenticação por chave opcional, isolamento dos bancos de teste e CI em múltiplas versões de Python. A versão revisada ainda não foi integrada à `main`.
 
----
+### [UPA — Portal Acadêmico](https://github.com/ZaraTakion/upa-portal-academico)
+**Django REST Framework · React/Vite · JWT · SQL**
 
-## Formação
+Aplicação full-stack para funcionalidades acadêmicas de alunos, professores e administração, com API, controle de acesso, migrações, formulários e fluxos de navegação. O repositório inclui testes de Back-End, Front-End e automação de testes de navegador. Integração financeira real **não implementada**.
 
-**Tecnólogo em Sistemas para Internet**  
-Centro Universitário — UNIESP  
-2023 – 2026
+## Competências demonstradas nos repositórios
 
-Principais competências desenvolvidas: desenvolvimento web Front-End e Back-End, programação, aplicações web, APIs REST, bancos de dados, engenharia de software, Git, integração de sistemas e fundamentos de tecnologias da informação.
+- **Back-End:** Python, Django, Django REST Framework, FastAPI, APIs REST, JWT, Pydantic.
+- **Persistência:** SQL, SQLite e integração configurável com PostgreSQL.
+- **Qualidade:** `unittest`, testes de integração, lint, Git/GitHub, GitHub Actions, documentação OpenAPI.
+- **Operação:** Docker Compose, variáveis de ambiente, migrações, configuração segura e documentação de execução.
+- **Front-End complementar:** React, Vite, JavaScript, HTML e CSS.
 
----
+## Formação e idiomas
 
-## Idiomas
-
-**Português:** língua materna  
-**Inglês:** compreensão oral B1, leitura B2, escrita A2, produção oral B1, interação oral A2
-
----
+**Tecnólogo em Sistemas para Internet** — Centro Universitário UNIESP (2026).  
+**Português:** nativo. **Inglês:** leitura B2; compreensão e produção oral B1; escrita e interação oral A2 (níveis informados no currículo).
 
 ## Contato
 
-📧 **Email:** rm20022101@gmail.com  
-🐙 **GitHub:** [ZaraTakion](https://github.com/ZaraTakion)
+- **E-mail profissional:** [rm20022101@gmail.com](mailto:rm20022101@gmail.com)
+- **GitHub:** [github.com/ZaraTakion](https://github.com/ZaraTakion)
 
----
-
-> Este perfil reúne projetos acadêmicos, aplicações web e experimentos práticos desenvolvidos ao longo da minha formação em tecnologia.
+Estou interessado em oportunidades iniciais de desenvolvimento Back-End Python e engenharia de software. Os links acima levam ao código e às evidências disponíveis; funcionalidades planejadas ou em revisão não são apresentadas como já publicadas.
