@@ -18,7 +18,7 @@ API de chamados com autorização por solicitante/equipe, comentários internos,
 
 **Evidências:** [código e instruções](https://github.com/ZaraTakion/chamados-api) · [arquitetura](https://github.com/ZaraTakion/chamados-api/blob/main/docs/ARCHITECTURE.md) · [estudo de caso](https://github.com/ZaraTakion/chamados-api/blob/main/docs/PORTFOLIO.md) · [CI da revisão: 155 testes PostgreSQL, 93,9% de cobertura](https://github.com/ZaraTakion/chamados-api/actions/runs/37975397467).
 
-**Estado:** existe uma [pré-release de demonstração local](https://github.com/ZaraTakion/chamados-api/releases/tag/v1.0.0-local.1); melhorias adicionais estão no [PR #33](https://github.com/ZaraTakion/chamados-api/pull/33). **Sem alegação de hospedagem pública de produção.**
+**Estado:** existe uma [pré-release de demonstração local](https://github.com/ZaraTakion/chamados-api/releases/tag/v1.0.0-local.1); as melhorias foram integradas à `main` pelo [PR #33](https://github.com/ZaraTakion/chamados-api/pull/33). **Sem alegação de hospedagem pública de produção.**
 
 ### 2. [Task Manager API](https://github.com/ZaraTakion/task-manager-backend) — CRUD, validação e SQLite
 
@@ -26,9 +26,9 @@ API de chamados com autorização por solicitante/equipe, comentários internos,
 
 API REST de gerenciamento de tarefas com validações de entrada, operações CRUD, isolamento de dados de teste e persistência local. A branch de modernização inclui paginação e chave de API opcionais, testes de concorrência e procedimento de backup/restauração do SQLite.
 
-**Evidências:** [código-fonte](https://github.com/ZaraTakion/task-manager-backend) · [estudo de caso na branch de revisão](https://github.com/ZaraTakion/task-manager-backend/blob/refactor/task-manager-hardening-20261009/docs/CASE_STUDY.md) · [CI da revisão: 32 testes em quatro versões Python, 99% das linhas de `app`](https://github.com/ZaraTakion/task-manager-backend/actions/runs/37974457869).
+**Evidências:** [código-fonte](https://github.com/ZaraTakion/task-manager-backend) · [estudo de caso](https://github.com/ZaraTakion/task-manager-backend/blob/main/docs/CASE_STUDY.md) · [CI da revisão: 32 testes em quatro versões Python, 99% das linhas de `app`](https://github.com/ZaraTakion/task-manager-backend/actions/runs/37974457869).
 
-**Estado:** [PR #2 — modernização e histórico de revisão](https://github.com/ZaraTakion/task-manager-backend/pull/2). Consulte o estado do PR antes de assumir que todas as mudanças estão integradas à `main`.
+**Estado:** modernização integrada à `main`, com histórico de revisão disponível no [PR #2](https://github.com/ZaraTakion/task-manager-backend/pull/2).
 
 ### 3. [UPA — Portal Acadêmico](https://github.com/ZaraTakion/upa-portal-academico) — API acadêmica e integração full-stack
 
@@ -36,9 +36,9 @@ API REST de gerenciamento de tarefas com validações de entrada, operações CR
 
 Backend para turmas, matrículas, avaliações, notas, frequência, arquivos e controle de acesso por perfil; frontend React como cliente da API. Downloads requerem autorização, e os fluxos críticos possuem regressões automatizadas.
 
-**Evidências:** [código-fonte](https://github.com/ZaraTakion/upa-portal-academico) · [estudo de caso na branch de revisão](https://github.com/ZaraTakion/upa-portal-academico/blob/improve/portfolio-release-20261009/docs/CASE_STUDY.md) · [CI da revisão: 61 testes Django, 24 Node e 2 Playwright](https://github.com/ZaraTakion/upa-portal-academico/actions/runs/37976789745).
+**Evidências:** [código-fonte](https://github.com/ZaraTakion/upa-portal-academico) · [estudo de caso](https://github.com/ZaraTakion/upa-portal-academico/blob/main/docs/CASE_STUDY.md) · [CI da revisão: 61 testes Django, 24 Node e 2 Playwright](https://github.com/ZaraTakion/upa-portal-academico/actions/runs/37976789745).
 
-**Estado:** ajustes de segurança e qualidade estão no [PR #19](https://github.com/ZaraTakion/upa-portal-academico/pull/19). A área financeira consulta registros; **não processa pagamentos reais**.
+**Estado:** ajustes de segurança e qualidade integrados à `main` por meio do [PR #19](https://github.com/ZaraTakion/upa-portal-academico/pull/19). A área financeira consulta registros; **não processa pagamentos reais**.
 
 ## Competências demonstradas
 
@@ -59,4 +59,4 @@ Procuro oportunidades de **desenvolvimento Back-End Python**, estágio ou posiç
 
 **E-mail:** [rm20022101@gmail.com](mailto:rm20022101@gmail.com) · **GitHub:** [@ZaraTakion](https://github.com/ZaraTakion)
 
-<sub>Os números de testes/cobertura acima são registros de execuções específicas de CI nas branches indicadas, não garantias permanentes nem evidência de implantação pública. Código em pull requests depende de revisão e merge.</sub>
+<sub>Os números de testes/cobertura acima são registros de execuções específicas de CI nas branches indicadas, não garantias permanentes nem evidência de implantação pública. O histórico dos pull requests registra as alterações integradas à `main`.</sub>
