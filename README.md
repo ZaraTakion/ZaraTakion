@@ -24,7 +24,7 @@ API de chamados com autorização por solicitante/equipe, comentários internos,
 
 **Stack:** Python · FastAPI · Pydantic · SQLite · unittest
 
-API REST de gerenciamento de tarefas com validações de entrada, operações CRUD, isolamento de dados de teste e persistência local. A branch de modernização inclui paginação e chave de API opcionais, testes de concorrência e procedimento de backup/restauração do SQLite.
+API REST de gerenciamento de tarefas com validações de entrada, operações CRUD, isolamento de dados de teste e persistência local. A versão modernizada inclui paginação e chave de API opcionais, testes de concorrência e procedimento de backup/restauração do SQLite.
 
 **Evidências:** [código-fonte](https://github.com/ZaraTakion/task-manager-backend) · [estudo de caso](https://github.com/ZaraTakion/task-manager-backend/blob/main/docs/CASE_STUDY.md) · [CI da revisão: 32 testes em quatro versões Python, 99% das linhas de `app`](https://github.com/ZaraTakion/task-manager-backend/actions/runs/37974457869).
 
